@@ -1,0 +1,14 @@
+# Hasil unduhan dan file sementara
+*.mp3
+*.m4a
+*.webm
+*.part
+*.jpg
+*.webp
+.ytmp3-arsip.txt
+link-gagal.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
